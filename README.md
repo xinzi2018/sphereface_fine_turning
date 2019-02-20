@@ -3,7 +3,9 @@
 
 ## 运行命令
 > 数据集转正：python warp.py
+
 > 微调模型：python transfer_learning.py
+
 > 测试：python wc_eval.py
 
 ## 3.数据预处理
